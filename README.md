@@ -1,9 +1,8 @@
 ## PROYECTO REPLICA - GRACE HOPPER ( con Html  y Html+Css)
 ==========================================================
-
-Este Repositorio contiene un proyecto con "Bandera" y "Display".
-El cual muestra como se puede visualizar el display de bloques
-con características comunes y también diferentes entre sí.
+Este Repositorio contiene un proyecto con la Réplica de la página de Grace Hopper, 
+por un lado utilizando la estructura Html maquetándolo, así como también se ha
+replicado utilizando un Html semántico con estilo Css.
 
 
 ### Herramientas Utilizadas
@@ -14,10 +13,10 @@ con características comunes y también diferentes entre sí.
 
 ### Archivos
 ---------------------------
-menu = página ménú que presenta los dos tipos de réplica
-index.html  = Réplica de Página Html Grace Hopper con Maquetado HTML
-index-style.html = Réplica de página Html Grace Hopper con HTML + CSS
-main.css  = contiene el estilo a aplicar a la pagina HTML + CSS
++ menu = página ménú que presenta los dos tipos de réplica
++ index.html  = Réplica de Página Html Grace Hopper con Maquetado HTML
++ index-style.html = Réplica de página Html Grace Hopper con HTML + CSS
++ main.css  = contiene el estilo a aplicar a la pagina HTML + CSS
 
 #### Html
 + estructura básica
